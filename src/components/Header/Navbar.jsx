@@ -47,7 +47,7 @@ const Navbar = () => {
 
       <div className="navbar-end">
         <a
-          href="https://github.com/Johorakazi" 
+          href="https://github.com/bidhan31" 
           target="_blank"
           rel="noopener noreferrer"
           className="btn flex items-center gap-2 bg-blue-600 hover:-bg-linear-60 text-white border-0"
