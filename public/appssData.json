@@ -16,7 +16,7 @@
     ]
   },
   {
-    "image": "",
+    "image": "./public/assets/demo-app (2).webp",
     "title": "SmPlan:ToDo List with Reminder",
     "id": 2,
     "size": 55,
@@ -32,7 +32,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/picperfect.png",
+    "image": "./public/assets/demo-app (2).webp",
     "title": "FLIP - Focus Timer for Study",
     "id": 3,
     "size": 72,
@@ -48,7 +48,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/pocketchef.png",
+    "image": "./public/assets/demo-app (2).webp",
     "title": "Pomocat - Cute Pomodoro Timer",
     "id": 4,
     "reviews": 17892,
@@ -63,10 +63,10 @@
     ]
   },
   {
-    "image": "https://example.com/images/soundscape.png",
+    "image": "./public/assets/demo-app (2).webp",
     "title": "Time Planner: Schedule & Tasks",
     "id": 5,
-    "size": 89,
+    "size": 893,
     "reviews": 32567,
     "ratingAvg": 4.7,
     "downloads": 9800000,
@@ -79,7 +79,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/learnify.png",
+    "image": "./public/assets/demo-app (2).webp",
     "title": "Morning Habits - Daily Routine",
     "id": 6,
     "reviews": 20430,
@@ -94,7 +94,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/globetrotter.png",
+    "image": "./public/assets/demo-app (2).webp",
     "title": "Focus Plant: Pomodoro Forest",
     "id": 7,
     "size": 67,
@@ -110,7 +110,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/mindbloom.png",
+    "image": "./public/assets/demo-app (2).webp",
     "title": "Alarmy - Alarm Clock & Sleep",
     "id": 8,
     "size": 50,
@@ -126,9 +126,8 @@
     ]
   },
   {
-    "image": "https://example.com/images/securevault.png",
+    "image": "./public/assets/demo-app (2).webp",
     "title": "Forest: Focus for Productivity",
-  
     "id": 9,
     "size": 32,
     "reviews": 4567,
@@ -143,7 +142,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/gameverse.png",
+    "image": "./public/assets/demo-app (2).webp",
     "title": "SmPlan:ToDo List with Reminder",
     "id": 10,
     "size": 95,
@@ -159,7 +158,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/homenest.png",
+    "image": "./public/assets/demo-app (2).webp",
     "title": "FLIP - Focus Timer for Study",
     "id": 11,
     "reviews": 8900,
@@ -174,7 +173,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/codeflow.png",
+    "image": "./public/assets/demo-app (2).webp",
     "title": "Pomocat - Cute Pomodoro Timer",
     "id": 12,
     "size": 60,
@@ -190,7 +189,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/investwise.png",
+    "image": "./public/assets/demo-app (2).webp",
     "title": "Time Planner: Schedule & Tasks",
     "id": 13,
     "size": 52,
@@ -206,9 +205,8 @@
     ]
   },
   {
-    "image": "https://example.com/images/auroranews.png",
+    "image": "./public/assets/demo-app (2).webp",
     "title": "Morning Habits - Daily Routine",
-    
     "id": 14,
     "size": 78,
     "reviews": 28900,
@@ -223,7 +221,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/pethub.png",
+    "image": "./public/assets/demo-app (2).webp",
     "title": "Focus Plant: Pomodoro Forest",
     "id": 15,
     "reviews": 6200,
@@ -238,7 +236,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/lingosprint.png",
+    "image": "./public/assets/demo-app (2).webp",
     "title": "Alarmy - Alarm Clock & Sleep",
     "id": 16,
     "size": 57,
@@ -254,10 +252,9 @@
     ]
   },
   {
-    "image": "https://example.com/images/realtyfind.png",
+    "image": "./public/assets/demo-app (2).webp",
     "title": "Time Planner: Schedule & Tasks",
     "id": 17,
-  
     "size": 70,
     "reviews": 9800,
     "ratingAvg": 4.2,
@@ -271,9 +268,8 @@
     ]
   },
   {
-    "image": "https://example.com/images/planetsim.png",
+    "image": "./public/assets/demo-app (2).webp",
     "title": "Morning Habits - Daily Routine",
-
     "id": 18,
     "reviews": 3500,
     "ratingAvg": 4.9,
@@ -287,7 +283,7 @@
     ]
   },
   {
-    "image": "https://example.com/images/sketchpad.png",
+    "image": "./public/assets/demo-app (2).webp",
     "title": "Focus Plant: Pomodoro Forest",
     "id": 19,
     "reviews": 16500,
@@ -302,9 +298,8 @@
     ]
   },
   {
-    "image": "https://example.com/images/budgetflow.png",
+    "image": "./public/assets/demo-app (2).webp",
     "title": "Alarmy - Alarm Clock & Sleep",
-   
     "id": 20,
     "size": 42,
     "reviews": 13700,
@@ -319,19 +314,18 @@
     ]
   },
   {
-  "image": "https://example.com/images/financial-tracker.png",
-  "title": "ExpenseFlow: Budget Planner",
-  "id": 20,
-  "reviews": 9250,
-  "ratingAvg": 4.5,
-  "downloads": 1500000,
-  "ratings": [
-    { "name": "1 star", "count": 200 },
-    { "name": "2 star", "count": 300 },
-    { "name": "3 star", "count": 950 },
-    { "name": "4 star", "count": 3800 },
-    { "name": "5 star", "count": 4000 }
-  ]
-}
-
+    "image": "./public/assets/demo-app (2).webp",
+    "title": "ExpenseFlow: Budget Planner",
+    "id": 21,
+    "reviews": 9250,
+    "ratingAvg": 4.5,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 950 },
+      { "name": "4 star", "count": 3800 },
+      { "name": "5 star", "count": 4000 }
+    ]
+  }
 ]
